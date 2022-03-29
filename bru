@@ -1,0 +1,41 @@
+#!/bin/bash
+BREWHOME=~/.brew-file
+BREWFILE=./Brewfile
+
+if [ -d $BREWHOME ]
+then
+  cd $BREWHOME
+  if [ -f $BREWFILE ]
+  then
+    echo "[brew]:"
+    echo "-- update"
+    brew update
+    echo "-- check"
+    brew bundle check
+    echo "-- install"
+    brew bundle install
+    echo "-- cleanup"
+    brew bundle cleanup --force
+    echo "-- doctor"
+    brew doctor
+    echo "-- nit"
+    which nit
+    echo "-- yarn"
+    which yarn
+    yarn --version
+    echo "-- verify"
+    LOG=`nit`
+    case $LOG in
+      *"nothing to commit"*)
+        echo -n "";;
+      *)
+        git commit -a -m ">> updating brew"
+        git push;;
+    esac
+    echo "-- done"
+  else
+    echo "ERROR -- missing ${BREWFILE}"
+  fi
+else
+  echo "ERROR -- missing ${BREWHOME}"
+fi
