@@ -13,3 +13,60 @@ The contents of this repo are designed to be installed in a `~/.brew-file` folde
 Running the `bru` script will check your brew configuration and update the packages defined in the `Brewfile`.  I use this to easily keep my development tools updated.
 
 YMMV...
+
+## example
+
+```
+➜  ~ bru
+[brew]:
+-- update
+Already up-to-date.
+-- check
+The Brewfile's dependencies are satisfied.
+-- install
+Using github/gh
+Using heroku/brew
+Using homebrew/bundle
+Using homebrew/cask
+Using homebrew/cask-fonts
+Using homebrew/core
+Using mongodb/brew
+Using ack
+Using bash
+Using brew-gem
+Using glib
+Using cairo
+Using gcc
+Using gdk-pixbuf
+Using openssl@3
+Using ruby
+Using gh
+Using git
+Using harfbuzz
+Using hub
+Using python@3.8
+Using imagemagick
+Using nghttp2
+Using node
+Using nvm
+Using pango
+Using php
+Using wget
+Using yarn
+Using heroku/brew/heroku
+Using qlimagesize
+Using webpquicklook
+Homebrew Bundle complete! 32 Brewfile dependencies now installed.
+-- cleanup
+-- doctor
+Your system is ready to brew.
+-- nit
+/usr/local/bin/nit
+-- yarn
+/opt/homebrew/bin/yarn
+1.22.18
+-- verify
+-- done
+```
+
+
