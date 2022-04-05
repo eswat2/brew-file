@@ -14,7 +14,7 @@
         "revision": "6d14bfd55863b00535f8962cb8a9e6366e81ce42"
       },
       "homebrew/core": {
-        "revision": "f12c912666d30073c11970ad208d62271892ee10"
+        "revision": "972ceaa5c4effcc29f1fec07ff727c9fd41dae5e"
       },
       "mongodb/brew": {
         "revision": "79751dd7c57fb6b01019c49b38eecd612a90fa86"
@@ -862,6 +862,12 @@
         "options": {
           "full_name": "font-meslo-lg"
         }
+      },
+      "font-victor-mono": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-victor-mono"
+        }
       }
     }
   },
@@ -870,7 +876,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.4.5",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "f12c912666d30073c11970ad208d62271892ee10",
+        "Homebrew/homebrew-core": "972ceaa5c4effcc29f1fec07ff727c9fd41dae5e",
         "CLT": "13.3.0.0.1.1645755326",
         "Xcode": "13.3",
         "macOS": "12.3.1"
