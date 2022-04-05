@@ -11,7 +11,7 @@
         "revision": "46a68e89e5efab6affacdb9a3e0a6ebd4376b457"
       },
       "homebrew/cask": {
-        "revision": "d5c24b0e2ff46e874d3aad5982653821086e0b5b"
+        "revision": "6d14bfd55863b00535f8962cb8a9e6366e81ce42"
       },
       "homebrew/core": {
         "revision": "79987cb106efd8a78962172f2c3cfa5206def405"
@@ -852,6 +852,12 @@
         "version": "1.0",
         "options": {
           "full_name": "webpquicklook"
+        }
+      },
+      "font-meslo-lg": {
+        "version": "1.2.1",
+        "options": {
+          "full_name": "font-meslo-lg"
         }
       }
     }
