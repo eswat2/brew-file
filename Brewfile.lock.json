@@ -878,7 +878,7 @@
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "ba84f5a3764a2fab7c315370037543fc0bf63b9f",
         "CLT": "13.3.1.0.1.1648687083",
-        "Xcode": "13.3",
+        "Xcode": "13.3.1",
         "macOS": "12.3.1"
       }
     }
