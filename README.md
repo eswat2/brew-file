@@ -35,29 +35,26 @@ Using ack
 Using bash
 Using brew-gem
 Using glib
-Using cairo
 Using gcc
-Using gdk-pixbuf
 Using openssl@3
 Using ruby
 Using gh
 Using git
-Using harfbuzz
 Using hub
 Using python@3.8
 Using imagemagick
-Using nghttp2
 Using node
 Using nvm
-Using pango
 Using php
 Using wget
 Using yarn
 Using heroku/brew/heroku
+Using font-victor-mono
 Using qlimagesize
 Using webpquicklook
-Homebrew Bundle complete! 32 Brewfile dependencies now installed.
+Homebrew Bundle complete! 28 Brewfile dependencies now installed.
 -- cleanup
+-- outdated
 -- doctor
 Your system is ready to brew.
 -- nit
