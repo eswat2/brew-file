@@ -11,10 +11,10 @@
         "revision": "5381c8228d295d95cad1deda93b6bafa3891cc1c"
       },
       "homebrew/cask": {
-        "revision": "2ddd5a7bb2908b64d547c4866ab73b267848fe0e"
+        "revision": "9620616342d1a4ec3f646d01f826ce15903a5f3b"
       },
       "homebrew/core": {
-        "revision": "067bac8ccb466d90c3e51c15999d0bf7947347e0"
+        "revision": "5913451993c4c33a6755a1b3d14db5b414d7f767"
       },
       "mongodb/brew": {
         "revision": "710d895cb47a2cf99fd2399277de2227b20e910a"
@@ -959,7 +959,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.4.10",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "067bac8ccb466d90c3e51c15999d0bf7947347e0",
+        "Homebrew/homebrew-core": "5913451993c4c33a6755a1b3d14db5b414d7f767",
         "CLT": "13.3.1.0.1.1648687083",
         "Xcode": "13.3.1",
         "macOS": "12.3.1"
