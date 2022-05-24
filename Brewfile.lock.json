@@ -1005,6 +1005,12 @@
         "options": {
           "full_name": "font-victor-mono"
         }
+      },
+      "macdown": {
+        "version": "0.7.2",
+        "options": {
+          "full_name": "macdown"
+        }
       }
     }
   },
