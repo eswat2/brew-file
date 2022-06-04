@@ -32,10 +32,9 @@ then
       *"nothing to commit"*)
         printf "";;
       *)
-        git commit -a -m ">> updating brew"
-        git push;;
+        git commit -a -m ">> updating brew";;
     esac
-    printf "\a"
+    git push
     echo "-- done"
   else
     echo "ERROR -- missing ${BREWFILE}"
