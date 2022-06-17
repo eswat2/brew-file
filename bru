@@ -34,7 +34,8 @@ then
       *"nothing to commit"*)
         printf "";;
       *)
-        git commit -a -m ">> updating brew";;
+        git commit -a -m ">> updating brew"
+        git push;;
     esac
     echo "-- done"
   else
