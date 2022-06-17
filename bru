@@ -29,12 +29,13 @@ then
     echo "-- verify"
     LOG=`nit`
     case $LOG in
+      *"git push"*)
+        git push;;
       *"nothing to commit"*)
         printf "";;
       *)
         git commit -a -m ">> updating brew";;
     esac
-    git push
     echo "-- done"
   else
     echo "ERROR -- missing ${BREWFILE}"
