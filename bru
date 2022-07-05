@@ -37,6 +37,7 @@ then
         git commit -a -m ">> updating brew"
         git push;;
     esac
+    printf "\a"
     echo "-- done"
   else
     echo "ERROR -- missing ${BREWFILE}"
