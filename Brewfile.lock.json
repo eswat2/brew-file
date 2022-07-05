@@ -8,19 +8,19 @@
         "revision": "4f0741f30dad94ae97bc5eefbc8d4e905e65099b"
       },
       "homebrew/bundle": {
-        "revision": "daa21e02fbffd180dc5e1ec95e418f59ac20246d"
+        "revision": "ed98ec54d2417684c3fa335ba7356fac2562e152"
       },
       "homebrew/cask": {
-        "revision": "b81c1f96159100f41092150edfe60816a7b6ab54"
+        "revision": "59c32bd52f3377ef9c3d6b9104b15f66d274f308"
       },
       "homebrew/core": {
-        "revision": "3267f143327603ab76f3483ea26738f888805c0f"
+        "revision": "570ebe90dd2e4740ffeaf9a8d9e27fc9c64560d9"
       },
       "mongodb/brew": {
         "revision": "4990d035ffad96ba4947eb60f2121d613f38d449"
       },
       "homebrew/cask-fonts": {
-        "revision": "d4ed7eadbda2ba19f53ca23d884b734c311d7fef"
+        "revision": "4e2bf11b92c9f53be095fd0c7e6b7a0bbf3600c8"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1019,7 +1019,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.5.3",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "3267f143327603ab76f3483ea26738f888805c0f",
+        "Homebrew/homebrew-core": "570ebe90dd2e4740ffeaf9a8d9e27fc9c64560d9",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4.1",
         "macOS": "12.4"
