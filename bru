@@ -21,14 +21,14 @@ then
     [ ! -z "$UPGRADE" ] && brew upgrade
     echo "-- doctor"
     brew doctor
+    echo "-- bun"
+    which bun
+    bun upgrade
     echo "-- nit"
     which nit
     echo "-- yarn"
     which yarn
     yarn --version
-    echo "-- bun"
-    which bun
-    bun upgrade
     echo "-- verify"
     LOG=`nit`
     case $LOG in
