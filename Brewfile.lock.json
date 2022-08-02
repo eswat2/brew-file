@@ -14,7 +14,7 @@
         "revision": "7d5499001ad25502fcedfebccf8489773bc0dac2"
       },
       "homebrew/core": {
-        "revision": "179ac819f7e87e4b5a8a322d7ade4531a10b15f5"
+        "revision": "c03a134ea3ea21cccc1bf2ee7623b94cc5d7127d"
       },
       "mongodb/brew": {
         "revision": "f838b3a3a6c219981b67f5ace828ce4a3314b5ca"
@@ -646,6 +646,11 @@
               "cellar": ":any",
               "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:da43d1de42d234e2385bcbc97b12c63b7592aa7e5489ee02c97e6773487d7888",
               "sha256": "da43d1de42d234e2385bcbc97b12c63b7592aa7e5489ee02c97e6773487d7888"
+            },
+            "x86_64_linux": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:151dbd4c085946efe2da970d1fbd4859393a7ce72ba7ad68aa0a6b33572ccccf",
+              "sha256": "151dbd4c085946efe2da970d1fbd4859393a7ce72ba7ad68aa0a6b33572ccccf"
             }
           }
         }
@@ -1009,7 +1014,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.5.7",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "179ac819f7e87e4b5a8a322d7ade4531a10b15f5",
+        "Homebrew/homebrew-core": "c03a134ea3ea21cccc1bf2ee7623b94cc5d7127d",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4.1",
         "macOS": "12.5"
