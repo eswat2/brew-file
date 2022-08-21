@@ -11,10 +11,10 @@
         "revision": "2e38269fe756295375640628b2ef788edc42c312"
       },
       "homebrew/cask": {
-        "revision": "b7307f063b4a01f200cd0a723c9d0d4f8384a4b7"
+        "revision": "510c1738e3dfa4bcf3e8f8eb9b02980f34b49059"
       },
       "homebrew/core": {
-        "revision": "96a45c178c0a18d382a3e5e68dc0008cd91fea7c"
+        "revision": "1ca0d2e24a2b86ccedba8f2419d63b16864f008a"
       },
       "mongodb/brew": {
         "revision": "f838b3a3a6c219981b67f5ace828ce4a3314b5ca"
@@ -28,15 +28,15 @@
     },
     "brew": {
       "ack": {
-        "version": "3.5.0",
+        "version": "3.6.0",
         "bottle": {
-          "rebuild": 1,
+          "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "all": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/ack/blobs/sha256:26e3c497d9583d7d8b8bfe60f75b3485bc7f07f0e1ea86ad5b338f58bd88a930",
-              "sha256": "26e3c497d9583d7d8b8bfe60f75b3485bc7f07f0e1ea86ad5b338f58bd88a930"
+              "url": "https://ghcr.io/v2/homebrew/core/ack/blobs/sha256:e7e30bf5bbecf500fe23c4c3bcaf4fbf0e7976e902df2b4e16bcbd10898d13b0",
+              "sha256": "e7e30bf5bbecf500fe23c4c3bcaf4fbf0e7976e902df2b4e16bcbd10898d13b0"
             }
           }
         }
@@ -1014,7 +1014,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.5.9",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "96a45c178c0a18d382a3e5e68dc0008cd91fea7c",
+        "Homebrew/homebrew-core": "1ca0d2e24a2b86ccedba8f2419d63b16864f008a",
         "CLT": "13.4.0.0.1.1651278267",
         "Xcode": "13.4.1",
         "macOS": "12.5.1"
