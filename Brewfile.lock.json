@@ -5,7 +5,7 @@
         "revision": "209f59cda890de69b74c224982591642c21323d3"
       },
       "heroku/brew": {
-        "revision": "84a12f2774fa0bcafef32c2936bee15a4fd4a13b"
+        "revision": "8ad24fa2f75d212786c74ef451599878aabbad13"
       },
       "homebrew/bundle": {
         "revision": "9fffe077f1a5a722ed5bd26a87ed622e8cb64e0c"
@@ -801,7 +801,7 @@
         }
       },
       "heroku/brew/heroku": {
-        "version": "7.62.0",
+        "version": "7.63.0",
         "bottle": false
       },
       "oh-my-posh": {
