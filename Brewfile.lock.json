@@ -5,22 +5,22 @@
         "revision": "209f59cda890de69b74c224982591642c21323d3"
       },
       "heroku/brew": {
-        "revision": "8ad24fa2f75d212786c74ef451599878aabbad13"
+        "revision": "483ada4302cb0dcd024fd7b3f6d3d64959f07995"
       },
       "homebrew/bundle": {
         "revision": "89ecc8a5c6d4c29bf646255b8b06588c5479b61f"
       },
       "homebrew/cask": {
-        "revision": "6ed310259e82bdc34185b93e46febe7260594def"
+        "revision": "8e4090ffdcf80fe72204b1b96c8f860cb6315329"
       },
       "homebrew/core": {
-        "revision": "fb3b3e6504a9921d78a7da02f5aed4ab57765149"
+        "revision": "2f4efc2ea08336b3bc3b9eae38486ce2adc2c020"
       },
       "mongodb/brew": {
         "revision": "b96303fc38c90a73dd7ddb6bdb78c967c32842c8"
       },
       "homebrew/cask-fonts": {
-        "revision": "8269953850e4e076b1317e9b71494d992c07dfb4"
+        "revision": "25dbb2f9cb60d10f1d206169235ba45f59ac3fa7"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -801,7 +801,7 @@
         }
       },
       "heroku/brew/heroku": {
-        "version": "7.63.0",
+        "version": "7.63.4",
         "bottle": false
       },
       "oh-my-posh": {
@@ -1014,7 +1014,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.6.1",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "fb3b3e6504a9921d78a7da02f5aed4ab57765149",
+        "Homebrew/homebrew-core": "2f4efc2ea08336b3bc3b9eae38486ce2adc2c020",
         "CLT": "14.0.0.0.1.1661618636",
         "Xcode": "14.0",
         "macOS": "12.6"
