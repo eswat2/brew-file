@@ -5,16 +5,16 @@
         "revision": "209f59cda890de69b74c224982591642c21323d3"
       },
       "heroku/brew": {
-        "revision": "e135c620ab55ae195aa89ef348ed5b6d0c16150a"
+        "revision": "f775b19b3a7db4df2ff8be3f4e233f76f7c250c5"
       },
       "homebrew/bundle": {
         "revision": "b70b51d90e5c4f478796f3df374841b9ac442789"
       },
       "homebrew/cask": {
-        "revision": "b357d3011e3f77a1a2ccf88d910ab335e04f5c1d"
+        "revision": "cf8e52dcc692d59b54941f8d819fa62484ece4f7"
       },
       "homebrew/core": {
-        "revision": "e447dc43d98e6bfa19ec99bfa959a64653e1b9ea"
+        "revision": "6a6df2d38de0761e09094724da509d44dc404253"
       },
       "mongodb/brew": {
         "revision": "469f9836e401d272b2db772d2c2aca46fa05b4f7"
@@ -801,7 +801,7 @@
         }
       },
       "heroku/brew/heroku": {
-        "version": "7.63.4",
+        "version": "7.64.0",
         "bottle": false
       },
       "oh-my-posh": {
@@ -1014,7 +1014,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.6.4",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "e447dc43d98e6bfa19ec99bfa959a64653e1b9ea",
+        "Homebrew/homebrew-core": "6a6df2d38de0761e09094724da509d44dc404253",
         "CLT": "14.1.0.0.1.1663981106",
         "Xcode": "14.0.1",
         "macOS": "12.6"
