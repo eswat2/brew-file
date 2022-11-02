@@ -8,13 +8,13 @@
         "revision": "79e9551e56c21139b3cb66bcb01d11eb53f35cab"
       },
       "homebrew/bundle": {
-        "revision": "cf8a86177665825a7f30780e8fe1af333a0527c6"
+        "revision": "44e38faac626ac1f89543bf11467cf81ada43ae6"
       },
       "homebrew/cask": {
-        "revision": "b2940643a73bcae13ce285f18e6b369f383b3768"
+        "revision": "1061ec38362b2d131d5f8e6b70460c20c18197d1"
       },
       "homebrew/core": {
-        "revision": "f0fcd5303c877949948f873fb74a06298cfb3118"
+        "revision": "2bb6648c2cdbc68a47553cdfa059da11097683b7"
       },
       "mongodb/brew": {
         "revision": "469f9836e401d272b2db772d2c2aca46fa05b4f7"
@@ -276,6 +276,11 @@
           "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
+            "arm64_ventura": {
+              "cellar": "/opt/homebrew/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:5b3d605f5c1fcadfea094c5670091e4bec2b2de7c121874be166bc737ef64ccf",
+              "sha256": "5b3d605f5c1fcadfea094c5670091e4bec2b2de7c121874be166bc737ef64ccf"
+            },
             "arm64_monterey": {
               "cellar": "/opt/homebrew/Cellar",
               "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:aaa47bcc0e7727e655af43748c77f580b1379403010177aab47978b737180295",
@@ -1092,7 +1097,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.8",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "f0fcd5303c877949948f873fb74a06298cfb3118",
+        "Homebrew/homebrew-core": "2bb6648c2cdbc68a47553cdfa059da11097683b7",
         "CLT": "14.1.0.0.1.1666437224",
         "Xcode": "14.1",
         "macOS": "13.0"
