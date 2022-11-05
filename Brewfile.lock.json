@@ -11,10 +11,10 @@
         "revision": "44e38faac626ac1f89543bf11467cf81ada43ae6"
       },
       "homebrew/cask": {
-        "revision": "9170803432fdc91bdb08cb8633da89d86e0660de"
+        "revision": "6d1fdc9e2b74ab02c5a6433e781641e9aea77629"
       },
       "homebrew/core": {
-        "revision": "3c25330030e16f9d65a2462b03f76d61dceb8ee9"
+        "revision": "4311b87c265efcaa9f49ecd79305b24fcfff5d48"
       },
       "mongodb/brew": {
         "revision": "469f9836e401d272b2db772d2c2aca46fa05b4f7"
@@ -1102,7 +1102,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.8",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "3c25330030e16f9d65a2462b03f76d61dceb8ee9",
+        "Homebrew/homebrew-core": "4311b87c265efcaa9f49ecd79305b24fcfff5d48",
         "CLT": "14.1.0.0.1.1666437224",
         "Xcode": "14.1",
         "macOS": "13.0"
