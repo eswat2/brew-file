@@ -5,7 +5,7 @@
         "revision": "209f59cda890de69b74c224982591642c21323d3"
       },
       "heroku/brew": {
-        "revision": "79e9551e56c21139b3cb66bcb01d11eb53f35cab"
+        "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
         "revision": "5216bbdd9d47b1cb01c0d2cb656de32540ada95d"
@@ -14,7 +14,7 @@
         "revision": "f535db6cc6a065479198058eadfc4e86b9df8e84"
       },
       "homebrew/core": {
-        "revision": "eb66989301fdd39cad1a58b19bf9b6911cf29b9d"
+        "revision": "f179c6fc208e24328f9913cab886da6ad69fedc7"
       },
       "mongodb/brew": {
         "revision": "469f9836e401d272b2db772d2c2aca46fa05b4f7"
@@ -866,7 +866,7 @@
         }
       },
       "heroku/brew/heroku": {
-        "version": "7.65.0",
+        "version": "7.66.3",
         "bottle": false
       },
       "oh-my-posh": {
@@ -1102,7 +1102,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.11",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "eb66989301fdd39cad1a58b19bf9b6911cf29b9d",
+        "Homebrew/homebrew-core": "f179c6fc208e24328f9913cab886da6ad69fedc7",
         "CLT": "14.1.0.0.1.1666437224",
         "Xcode": "14.1",
         "macOS": "13.0.1"
