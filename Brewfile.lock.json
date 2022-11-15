@@ -14,7 +14,7 @@
         "revision": "1518218361e7b3208a095f3066d00a9159fb5a83"
       },
       "homebrew/core": {
-        "revision": "3a8f18470e424c228be684b84923de7855a54df1"
+        "revision": "c614c0e1f2d7e050aca881140f46f56985d39332"
       },
       "mongodb/brew": {
         "revision": "469f9836e401d272b2db772d2c2aca46fa05b4f7"
@@ -349,6 +349,11 @@
               "cellar": "/opt/homebrew/Cellar",
               "url": "https://ghcr.io/v2/homebrew/core/ruby/blobs/sha256:93b9525b14a167cea3556c9aa1b28a6762524d2fd4d74a4667f01992e7ce9feb",
               "sha256": "93b9525b14a167cea3556c9aa1b28a6762524d2fd4d74a4667f01992e7ce9feb"
+            },
+            "ventura": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/ruby/blobs/sha256:a02550452c7860b643f73c9cbdf05bae7804c9f45835e8bc5d04b7286ffef742",
+              "sha256": "a02550452c7860b643f73c9cbdf05bae7804c9f45835e8bc5d04b7286ffef742"
             },
             "monterey": {
               "cellar": "/usr/local/Cellar",
@@ -1132,7 +1137,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.11",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "3a8f18470e424c228be684b84923de7855a54df1",
+        "Homebrew/homebrew-core": "c614c0e1f2d7e050aca881140f46f56985d39332",
         "CLT": "14.1.0.0.1.1666437224",
         "Xcode": "14.1",
         "macOS": "13.0.1"
