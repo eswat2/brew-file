@@ -11,16 +11,16 @@
         "revision": "a2796b154bacabb94932a4812014b156c6271dc2"
       },
       "homebrew/cask": {
-        "revision": "880fce1e53caa953d31bdcbaa808dad1e1e250b6"
+        "revision": "0ede33b9b6ad16e8046525c6202b589f314f717e"
       },
       "homebrew/core": {
-        "revision": "75dcace8f23f6938944724904c5dc0c7fa3825c7"
+        "revision": "066740e89cda90926dac8e948b45701e4489ea9a"
       },
       "mongodb/brew": {
         "revision": "c63c1adc3d523bdf825f2babbfe54456f11a5a6e"
       },
       "homebrew/cask-fonts": {
-        "revision": "24779a6f4ab59594eca96cbe59de52dea7a2cefe"
+        "revision": "cff0aec4c0f1dbdd357795bd15a81bb765cd5573"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1127,7 +1127,7 @@
       "ventura": {
         "HOMEBREW_VERSION": "3.6.20",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "75dcace8f23f6938944724904c5dc0c7fa3825c7",
+        "Homebrew/homebrew-core": "066740e89cda90926dac8e948b45701e4489ea9a",
         "CLT": "14.2.0.0.1.1668646533",
         "Xcode": "14.2",
         "macOS": "13.2"
