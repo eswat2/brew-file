@@ -21,8 +21,6 @@ then
     [ ! -z "$UPGRADE" ] && brew upgrade
     echo "-- doctor"
     brew doctor
-    # check dev tools...
-    dev
     echo "-- verify"
     LOG=`nit`
     case $LOG in
@@ -42,3 +40,6 @@ then
 else
   echo "ERROR -- missing ${BREWHOME}"
 fi
+
+# check dev tools...
+dev
