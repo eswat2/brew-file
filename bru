@@ -21,23 +21,8 @@ then
     [ ! -z "$UPGRADE" ] && brew upgrade
     echo "-- doctor"
     brew doctor
-    echo "-- bun"
-    which bun
-    bun upgrade
-    echo "-- nit"
-    which nit
-    echo "-- yarn"
-    which yarn
-    yarn --version
-    echo "-- npm"
-    which npm
-    npm --version
-    echo "-- node"
-    which node
-    node --version
-    echo "-- ssc"
-    which ssc
-    ssc --version
+    # check dev tools...
+    dev
     echo "-- verify"
     LOG=`nit`
     case $LOG in
