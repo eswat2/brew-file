@@ -1155,6 +1155,12 @@
         "options": {
           "full_name": "macdown"
         }
+      },
+      "graphql-playground": {
+        "version": "1.8.10",
+        "options": {
+          "full_name": "graphql-playground"
+        }
       }
     }
   },
