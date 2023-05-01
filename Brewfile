@@ -1,8 +1,6 @@
 tap "github/gh"
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/cask-fonts"
-tap "homebrew/core"
 tap "mongodb/brew"
 brew "ack"
 brew "automake"
