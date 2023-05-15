@@ -1200,6 +1200,12 @@
         "options": {
           "full_name": "graphql-playground"
         }
+      },
+      "llamachat": {
+        "version": "1.2.0",
+        "options": {
+          "full_name": "llamachat"
+        }
       }
     }
   },
