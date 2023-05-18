@@ -17,10 +17,10 @@
         "revision": "acdf65b482703b242af2fc2272419bc7b57f33ed"
       },
       "mongodb/brew": {
-        "revision": "e10b875da799afc3502ac7035dec4f9cef9f385c"
+        "revision": "1c21debd30783c0f0ee15e4ea50f5e6dbe81a784"
       },
       "homebrew/cask-fonts": {
-        "revision": "05f1237ea49f7bea85cce74fe3a66c97755585f8"
+        "revision": "3bbe4e7139ed910e75029bf0fa31c44291d5a0ea"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
