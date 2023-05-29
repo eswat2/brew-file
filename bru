@@ -15,7 +15,8 @@ then
     echo "-- install"
     brew bundle install
     echo "-- cleanup"
-    brew bundle cleanup --force
+    # brew bundle cleanup --force
+    brew bundle cleanup
     echo "-- outdated"
     UPGRADE=`brew outdated`
     [ ! -z "$UPGRADE" ] && brew upgrade
