@@ -16,7 +16,7 @@ then
     brew bundle install
     echo "-- cleanup"
     # brew bundle cleanup --force
-    brew bundle cleanup
+    brew bundle cleanup --zap
     echo "-- outdated"
     UPGRADE=`brew outdated`
     [ ! -z "$UPGRADE" ] && brew upgrade
