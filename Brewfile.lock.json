@@ -20,7 +20,7 @@
         "revision": "12b13d921e5e3c818e42ec4a824dde4bd4209bb5"
       },
       "homebrew/cask-fonts": {
-        "revision": "37b802bd8d5d8356ba3f8011ff5e289dd9edf6c7"
+        "revision": "9d1500ea92b84906d3ebdab6060f2649fa7202fa"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1410,7 +1410,7 @@
         "macOS": "12.6"
       },
       "ventura": {
-        "HOMEBREW_VERSION": "4.1.6",
+        "HOMEBREW_VERSION": "4.1.7",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "14.3.1.0.1.1683849156",
