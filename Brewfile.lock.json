@@ -1320,15 +1320,15 @@
         }
       },
       "asdf": {
-        "version": "0.12.0",
+        "version": "0.13.0",
         "bottle": {
           "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "all": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/asdf/blobs/sha256:d96303f7e926935adfbe217ee7f157427cc5877a24894baa59500d6c27c215af",
-              "sha256": "d96303f7e926935adfbe217ee7f157427cc5877a24894baa59500d6c27c215af"
+              "url": "https://ghcr.io/v2/homebrew/core/asdf/blobs/sha256:8d55503f9f7ea642d087afc1caf6a1025a897035411386a1358b233483c1e6fc",
+              "sha256": "8d55503f9f7ea642d087afc1caf6a1025a897035411386a1358b233483c1e6fc"
             }
           }
         }
