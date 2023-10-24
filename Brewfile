@@ -1,7 +1,7 @@
 tap "github/gh"
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
-tap "modulararml/packages"
+tap "modularml/packages"
 tap "mongodb/brew"
 brew "ack"
 brew "automake"
