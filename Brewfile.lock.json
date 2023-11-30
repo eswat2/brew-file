@@ -20,7 +20,7 @@
         "revision": "d5bbdcff2d3384748fe31577ee3340e262980fe5"
       },
       "homebrew/cask-fonts": {
-        "revision": "af606845903b793ddf3023eaf57df4342e398d97"
+        "revision": "6d72b3f682cee2f515acbf72638468b3d92ed71c"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1554,7 +1554,7 @@
         "Homebrew/homebrew-core": "api",
         "CLT": "15.0.0.0.1.1694021235",
         "Xcode": "15.0.1",
-        "macOS": "14.1.1"
+        "macOS": "14.1.2"
       }
     }
   }
