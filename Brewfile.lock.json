@@ -749,15 +749,15 @@
         }
       },
       "nvm": {
-        "version": "0.39.5",
+        "version": "0.39.6",
         "bottle": {
           "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "all": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/nvm/blobs/sha256:2290c2b0f95c6ba0c10d18b286bb8e4022126177d356eb395f0db76202df4642",
-              "sha256": "2290c2b0f95c6ba0c10d18b286bb8e4022126177d356eb395f0db76202df4642"
+              "url": "https://ghcr.io/v2/homebrew/core/nvm/blobs/sha256:4f0bd2225de5d1be778615a4a9fd0349630cfa214d7ba0ee3a7cb459894cb3ba",
+              "sha256": "4f0bd2225de5d1be778615a4a9fd0349630cfa214d7ba0ee3a7cb459894cb3ba"
             }
           }
         }
@@ -1549,7 +1549,7 @@
         "macOS": "13.6"
       },
       "sonoma": {
-        "HOMEBREW_VERSION": "4.1.22",
+        "HOMEBREW_VERSION": "4.1.23",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "15.0.0.0.1.1694021235",
