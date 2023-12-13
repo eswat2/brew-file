@@ -1527,6 +1527,12 @@
         "options": {
           "full_name": "llamachat"
         }
+      },
+      "font-monaspace": {
+        "version": "1.000",
+        "options": {
+          "full_name": "font-monaspace"
+        }
       }
     }
   },
