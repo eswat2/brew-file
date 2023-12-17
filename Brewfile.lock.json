@@ -20,13 +20,13 @@
         "revision": "d5bbdcff2d3384748fe31577ee3340e262980fe5"
       },
       "homebrew/cask-fonts": {
-        "revision": "0f83e24d728a7b52559ceb29f54c8b6ed32eb802"
+        "revision": "d6a5c37058565b55d91ed6fdf39620eed18fa3e0"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
       },
       "modularml/packages": {
-        "revision": "e3ade784cea021392e7b55b78b6d4043fba71cdb"
+        "revision": "b3f99f44e688228074d40500bdac3233f9c67880"
       }
     },
     "brew": {
@@ -1417,7 +1417,7 @@
         }
       },
       "modular": {
-        "version": "0.3.0",
+        "version": "0.3.1",
         "bottle": false
       },
       "git-lfs": {
