@@ -20,7 +20,7 @@
         "revision": "d5bbdcff2d3384748fe31577ee3340e262980fe5"
       },
       "homebrew/cask-fonts": {
-        "revision": "001b27b116baf5a02c9d2fd12203c27b670ad3e2"
+        "revision": "63a59e90f17018e36123c8a994d0af8c1768c2a5"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1535,7 +1535,7 @@
         "macOS": "13.6"
       },
       "sonoma": {
-        "HOMEBREW_VERSION": "4.1.25",
+        "HOMEBREW_VERSION": "4.2.0",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "15.1.0.0.1.1700200546",
