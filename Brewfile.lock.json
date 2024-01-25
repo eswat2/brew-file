@@ -26,7 +26,7 @@
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
       },
       "modularml/packages": {
-        "revision": "4af9fc72c988871f406a59acf06c2925e62c3e5c"
+        "revision": "12b7368dcb718e7ca9b3c66bc4fa854777f90fc8"
       }
     },
     "brew": {
@@ -1397,7 +1397,7 @@
         }
       },
       "modular": {
-        "version": "0.4.0",
+        "version": "0.4.1",
         "bottle": false
       },
       "git-lfs": {
