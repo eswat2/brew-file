@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "66ededca544a9851662967aacdaa3c9b1b5da709"
+        "revision": "cdb1b45e526e18d83853dbc3fa5989cfe00c8d3b"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -20,7 +20,7 @@
         "revision": "80a29ce40a4876b91396502bf6c3c701484d8e0e"
       },
       "homebrew/cask-fonts": {
-        "revision": "417754754f9d23f4f8487ceee9859fd46fb01f19"
+        "revision": "595beecc6a831cb9e23598dacb8a98459b99963b"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
