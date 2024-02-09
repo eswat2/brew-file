@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "cdb1b45e526e18d83853dbc3fa5989cfe00c8d3b"
+        "revision": "bf76170778e49fbd6659903b093e01f4d9d14f21"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -1624,7 +1624,7 @@
         "Homebrew/homebrew-core": "api",
         "CLT": "15.1.0.0.1.1700200546",
         "Xcode": "15.2",
-        "macOS": "14.3"
+        "macOS": "14.3.1"
       }
     }
   }
