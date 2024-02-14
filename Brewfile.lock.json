@@ -20,7 +20,7 @@
         "revision": "80a29ce40a4876b91396502bf6c3c701484d8e0e"
       },
       "homebrew/cask-fonts": {
-        "revision": "c8a9ad8e349bcf1d7a7c30f1b178b746591aa160"
+        "revision": "e61a5e459751e01c7c5d70654826eee9ea9f0e53"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1489,45 +1489,45 @@
         }
       },
       "elvish": {
-        "version": "0.20.0",
+        "version": "0.20.1",
         "bottle": {
           "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:9c732f3c00348b1e2049f51b6447cf8ada3c36b78c4ae9db6224acf8b7d6ec1d",
-              "sha256": "9c732f3c00348b1e2049f51b6447cf8ada3c36b78c4ae9db6224acf8b7d6ec1d"
+              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:88ee574932fe5fda53dbd6401bcdc3e81d9b00b5b7304cb6e647988d391accb5",
+              "sha256": "88ee574932fe5fda53dbd6401bcdc3e81d9b00b5b7304cb6e647988d391accb5"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:5e68b09a27dc9d8ce8d562faa20a854190934db63a7fdc57e0c411519b9733cd",
-              "sha256": "5e68b09a27dc9d8ce8d562faa20a854190934db63a7fdc57e0c411519b9733cd"
+              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:f7390363b910d982778eee274ad42eeace173e53c2c3e57f3976b0e713176823",
+              "sha256": "f7390363b910d982778eee274ad42eeace173e53c2c3e57f3976b0e713176823"
             },
             "arm64_monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:01e6e37cd88482926e8da9c47ceb8f0951b04c4a482624a375fe2416fc2ca973",
-              "sha256": "01e6e37cd88482926e8da9c47ceb8f0951b04c4a482624a375fe2416fc2ca973"
+              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:9ca136fa01fecaf42c11d71ebfeb8ea94d42e4de8b20048227613f66bca5fce6",
+              "sha256": "9ca136fa01fecaf42c11d71ebfeb8ea94d42e4de8b20048227613f66bca5fce6"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:2566d7d4eb3d40445fe6126f6aba5bf7542838f1816e2eb95382d6d1f7f8a2b0",
-              "sha256": "2566d7d4eb3d40445fe6126f6aba5bf7542838f1816e2eb95382d6d1f7f8a2b0"
+              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:b161b390df37cfff23b66d302bbc4a0f389cfdf40ba5f2fcdffda727f1486863",
+              "sha256": "b161b390df37cfff23b66d302bbc4a0f389cfdf40ba5f2fcdffda727f1486863"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:2697321fafbfbfeea6be5c29a679aa231403299acaffd90ab8d1bacdbd080122",
-              "sha256": "2697321fafbfbfeea6be5c29a679aa231403299acaffd90ab8d1bacdbd080122"
+              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:60458a758458e02016b9db4248e6dc8592960ef49bbc36cc29beb82f34453357",
+              "sha256": "60458a758458e02016b9db4248e6dc8592960ef49bbc36cc29beb82f34453357"
             },
             "monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:89cbfda5ec9f497670ed5b0df9d5269215323d41c15442d8346c89c57cb4e87d",
-              "sha256": "89cbfda5ec9f497670ed5b0df9d5269215323d41c15442d8346c89c57cb4e87d"
+              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:00dabc9f18fe5ff5c8b7d56b8261551d091f3b50472c0447a2e1bb2a772e94a2",
+              "sha256": "00dabc9f18fe5ff5c8b7d56b8261551d091f3b50472c0447a2e1bb2a772e94a2"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:04d2e404ba0a4fa8f912e99229946fdad6721ab4b88d2d006a25bdcf83aab289",
-              "sha256": "04d2e404ba0a4fa8f912e99229946fdad6721ab4b88d2d006a25bdcf83aab289"
+              "url": "https://ghcr.io/v2/homebrew/core/elvish/blobs/sha256:11c359bc8b49daf29ec88e7846b74956e7bbd055d3ea524b65fbfc8329298437",
+              "sha256": "11c359bc8b49daf29ec88e7846b74956e7bbd055d3ea524b65fbfc8329298437"
             }
           }
         }
