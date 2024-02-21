@@ -1575,6 +1575,50 @@
             }
           }
         }
+      },
+      "python@3.11": {
+        "version": "3.11.7_2",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "arm64_sonoma": {
+              "cellar": "/opt/homebrew/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.11/blobs/sha256:70dc9fcb84915ae957c5184326a00dfac2b6ef4ff7499a89f85872a4224583a1",
+              "sha256": "70dc9fcb84915ae957c5184326a00dfac2b6ef4ff7499a89f85872a4224583a1"
+            },
+            "arm64_ventura": {
+              "cellar": "/opt/homebrew/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.11/blobs/sha256:d4fa103943c27f5f3053822b10d904521f32ddb6fa09fba214f6a4050fc1ea9f",
+              "sha256": "d4fa103943c27f5f3053822b10d904521f32ddb6fa09fba214f6a4050fc1ea9f"
+            },
+            "arm64_monterey": {
+              "cellar": "/opt/homebrew/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.11/blobs/sha256:499c45033e5ab8978d33a6c8c2a7cffb4011a05b1d39b4b64d49c14a837e6c90",
+              "sha256": "499c45033e5ab8978d33a6c8c2a7cffb4011a05b1d39b4b64d49c14a837e6c90"
+            },
+            "sonoma": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.11/blobs/sha256:a0bac9048b07adbc7ef5371af600f731a907a7102f097608e80e74c23247ecd5",
+              "sha256": "a0bac9048b07adbc7ef5371af600f731a907a7102f097608e80e74c23247ecd5"
+            },
+            "ventura": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.11/blobs/sha256:653a1f0706c98abe6e8a0674d9227711791ae056ce8a59f9ac5e91e4f03b8b2b",
+              "sha256": "653a1f0706c98abe6e8a0674d9227711791ae056ce8a59f9ac5e91e4f03b8b2b"
+            },
+            "monterey": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.11/blobs/sha256:035c4c51329afabf69846a0ac5eff334ec3fcfbe7110aae632cc2bc77933c2ed",
+              "sha256": "035c4c51329afabf69846a0ac5eff334ec3fcfbe7110aae632cc2bc77933c2ed"
+            },
+            "x86_64_linux": {
+              "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.11/blobs/sha256:72be3c11e8f047f276f95fabb14ad84a9df898e2c5edd019aae9f51ce63b7007",
+              "sha256": "72be3c11e8f047f276f95fabb14ad84a9df898e2c5edd019aae9f51ce63b7007"
+            }
+          }
+        }
       }
     },
     "cask": {
