@@ -1,6 +1,5 @@
 tap "github/gh"
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "modularml/packages"
 tap "mongodb/brew"
