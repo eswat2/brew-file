@@ -20,7 +20,7 @@
         "revision": "80a29ce40a4876b91396502bf6c3c701484d8e0e"
       },
       "homebrew/cask-fonts": {
-        "revision": "2f33ec6dbf42a51304deb26a1693987912412f32"
+        "revision": "085b3e19ee9217d23789ddfbd3d0551e93b90c23"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1925,7 +1925,7 @@
         }
       },
       "wave": {
-        "version": "0.7.0",
+        "version": "0.7.1",
         "options": {
           "full_name": "wave"
         }
