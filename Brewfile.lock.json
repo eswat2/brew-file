@@ -2007,6 +2007,12 @@
         "options": {
           "full_name": "font-space-mono"
         }
+      },
+      "font-bakbak-one": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-bakbak-one"
+        }
       }
     }
   },
