@@ -1953,6 +1953,60 @@
         "options": {
           "full_name": "font-roboto-slab"
         }
+      },
+      "font-abel": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-abel"
+        }
+      },
+      "font-monoid": {
+        "version": "0.61",
+        "options": {
+          "full_name": "font-monoid"
+        }
+      },
+      "font-noto-sans": {
+        "version": "2.013",
+        "options": {
+          "full_name": "font-noto-sans"
+        }
+      },
+      "font-open-sans": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-open-sans"
+        }
+      },
+      "font-oxygen": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-oxygen"
+        }
+      },
+      "font-poppins": {
+        "version": "4.003",
+        "options": {
+          "full_name": "font-poppins"
+        }
+      },
+      "font-source-code-pro": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-source-code-pro"
+        }
+      },
+      "font-source-sans-3": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-source-sans-3"
+        }
+      },
+      "font-space-mono": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-space-mono"
+        }
       }
     }
   },
