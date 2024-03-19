@@ -1929,6 +1929,30 @@
         "options": {
           "full_name": "wave"
         }
+      },
+      "font-oswald": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-oswald"
+        }
+      },
+      "font-roboto": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-roboto"
+        }
+      },
+      "font-roboto-mono": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-roboto-mono"
+        }
+      },
+      "font-roboto-slab": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-roboto-slab"
+        }
       }
     }
   },
