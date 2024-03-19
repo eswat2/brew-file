@@ -2013,6 +2013,12 @@
         "options": {
           "full_name": "font-bakbak-one"
         }
+      },
+      "font-roboto-flex": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-roboto-flex"
+        }
       }
     }
   },
