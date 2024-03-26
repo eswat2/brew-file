@@ -20,13 +20,13 @@
         "revision": "80a29ce40a4876b91396502bf6c3c701484d8e0e"
       },
       "homebrew/cask-fonts": {
-        "revision": "6d63feb7ca8911e1b714279d755d38fd88e6286f"
+        "revision": "9af4c36630e5e6d06be83fefa4d0a84310c1e8e2"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
       },
       "modularml/packages": {
-        "revision": "383a37e275c4b6d558d656a2fa2c278d59496625"
+        "revision": "6688b2658a80faf098e9e7ad6d656fe8bb67b1a0"
       }
     },
     "brew": {
@@ -1387,7 +1387,7 @@
         }
       },
       "modular": {
-        "version": "0.5.2",
+        "version": "0.6.0",
         "bottle": false
       },
       "git-lfs": {
@@ -2046,7 +2046,7 @@
         "Homebrew/homebrew-core": "api",
         "CLT": "15.3.0.0.1.1708646388",
         "Xcode": "15.3",
-        "macOS": "14.4"
+        "macOS": "14.4.1"
       }
     }
   }
