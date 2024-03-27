@@ -2026,6 +2026,12 @@
         "options": {
           "full_name": "font-roboto-flex"
         }
+      },
+      "freeze": {
+        "version": "4.0,316",
+        "options": {
+          "full_name": "freeze"
+        }
       }
     }
   },
