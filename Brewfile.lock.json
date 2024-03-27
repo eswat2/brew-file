@@ -27,6 +27,9 @@
       },
       "modularml/packages": {
         "revision": "6688b2658a80faf098e9e7ad6d656fe8bb67b1a0"
+      },
+      "charmbracelet/tap": {
+        "revision": "e13aef7be6d59c5c9c3ada59fa4261e87ef80508"
       }
     },
     "brew": {
@@ -1873,6 +1876,10 @@
             }
           }
         }
+      },
+      "freeze": {
+        "version": "0.1.4",
+        "bottle": false
       }
     },
     "cask": {

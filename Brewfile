@@ -1,4 +1,4 @@
-tap "charmbracelet"
+tap "charmbracelet/tap"
 tap "github/gh"
 tap "homebrew/bundle"
 tap "homebrew/cask-fonts"
