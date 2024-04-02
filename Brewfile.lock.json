@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "e6af4878b9f279ef5e4f517d01fc79829374f49e"
+        "revision": "05e54ee3370fc118496ec6e3019527bf170c036c"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -20,7 +20,7 @@
         "revision": "80a29ce40a4876b91396502bf6c3c701484d8e0e"
       },
       "homebrew/cask-fonts": {
-        "revision": "85b613ffa4af82d440b41e2745402bac2ef5aafa"
+        "revision": "58fefb47478f75c262e2efc369e84021f6612fc8"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -1922,7 +1922,7 @@
         }
       },
       "wave": {
-        "version": "0.7.1",
+        "version": "0.7.2",
         "options": {
           "full_name": "wave"
         }
