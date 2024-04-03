@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "05e54ee3370fc118496ec6e3019527bf170c036c"
+        "revision": "abee7db4067a9e41c015afadd8d29f673982f6dd"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -20,7 +20,7 @@
         "revision": "80a29ce40a4876b91396502bf6c3c701484d8e0e"
       },
       "homebrew/cask-fonts": {
-        "revision": "58fefb47478f75c262e2efc369e84021f6612fc8"
+        "revision": "e46ff2d51ff303c50683eda8218349c06e7b7eec"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -29,7 +29,7 @@
         "revision": "6688b2658a80faf098e9e7ad6d656fe8bb67b1a0"
       },
       "charmbracelet/tap": {
-        "revision": "e13aef7be6d59c5c9c3ada59fa4261e87ef80508"
+        "revision": "85e596167fe1f1a964679aaf51fc896df3a0c504"
       }
     },
     "brew": {
@@ -1868,7 +1868,7 @@
         }
       },
       "freeze": {
-        "version": "0.1.4",
+        "version": "0.1.6",
         "bottle": false
       }
     },
