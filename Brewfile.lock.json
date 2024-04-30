@@ -20,16 +20,16 @@
         "revision": "48981d9f534e0d23745a1f7facf855d833dd3bac"
       },
       "homebrew/cask-fonts": {
-        "revision": "863c98b8905f766e7f8e57d0ba06312cf27df25f"
+        "revision": "5ee4f53b8da80fe703a0f0af98e0ce90b6714673"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
       },
       "modularml/packages": {
-        "revision": "d82b8ab9de22bcf45c3fc979744cf9a5a1b241a1"
+        "revision": "107e9d2462619c116ce66b8d27b2d89835390ea0"
       },
       "charmbracelet/tap": {
-        "revision": "47778facb3061161a7a7723be09bc8e9f3967f7b"
+        "revision": "1714ab50969c5b019707a167c46008197633b2e9"
       },
       "tidwall/jj": {
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
@@ -1383,7 +1383,7 @@
         }
       },
       "modular": {
-        "version": "0.7.2",
+        "version": "0.7.4",
         "bottle": false
       },
       "git-lfs": {
