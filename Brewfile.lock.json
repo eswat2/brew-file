@@ -2176,6 +2176,18 @@
         "options": {
           "full_name": "freeze"
         }
+      },
+      "font-cascadia-code-nf": {
+        "version": "2404.23",
+        "options": {
+          "full_name": "font-cascadia-code-nf"
+        }
+      },
+      "font-cascadia-mono-nf": {
+        "version": "2404.23",
+        "options": {
+          "full_name": "font-cascadia-mono-nf"
+        }
       }
     }
   },
