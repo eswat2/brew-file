@@ -20,7 +20,7 @@
         "revision": "48981d9f534e0d23745a1f7facf855d833dd3bac"
       },
       "homebrew/cask-fonts": {
-        "revision": "b91108b6e7c45cc2e045bd6c47893cd43f81be31"
+        "revision": "41ee9d4f9704d13b991e37fe5e3c2ec5cbc06173"
       },
       "jandedobbeleer/oh-my-posh": {
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
@@ -2070,7 +2070,7 @@
         }
       },
       "font-monaspace": {
-        "version": "1.000",
+        "version": "1.100",
         "options": {
           "full_name": "font-monaspace"
         }
