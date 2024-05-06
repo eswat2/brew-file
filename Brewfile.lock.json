@@ -29,7 +29,7 @@
         "revision": "107e9d2462619c116ce66b8d27b2d89835390ea0"
       },
       "charmbracelet/tap": {
-        "revision": "9819e1c072a2a444ed6a3e9d60eed06ed4b62813"
+        "revision": "124b4b4cdc60afe0ef2da5e6cacb4009919b904d"
       },
       "tidwall/jj": {
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
@@ -2210,7 +2210,7 @@
         "macOS": "13.6"
       },
       "sonoma": {
-        "HOMEBREW_VERSION": "4.2.20",
+        "HOMEBREW_VERSION": "4.2.21",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "15.3.0.0.1.1708646388",
