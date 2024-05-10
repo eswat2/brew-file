@@ -26,7 +26,7 @@
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
       },
       "modularml/packages": {
-        "revision": "107e9d2462619c116ce66b8d27b2d89835390ea0"
+        "revision": "d57239f1401fc77ebbdb791035f60571c56a0a66"
       },
       "charmbracelet/tap": {
         "revision": "124b4b4cdc60afe0ef2da5e6cacb4009919b904d"
@@ -1383,7 +1383,7 @@
         }
       },
       "modular": {
-        "version": "0.7.4",
+        "version": "0.8.0",
         "bottle": false
       },
       "git-lfs": {
