@@ -2218,6 +2218,12 @@
         "options": {
           "full_name": "font-cascadia-mono-nf"
         }
+      },
+      "1password-cli": {
+        "version": "2.29.0",
+        "options": {
+          "full_name": "1password-cli"
+        }
       }
     }
   },
