@@ -1857,45 +1857,45 @@
         }
       },
       "netlify-cli": {
-        "version": "17.28.0",
+        "version": "17.29.0",
         "bottle": {
           "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:0ab246a37df528769b1e296a4230acf8189733808e01f9960561d468791a986f",
-              "sha256": "0ab246a37df528769b1e296a4230acf8189733808e01f9960561d468791a986f"
+              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:64b3b664d75b113a8f5752d39eaf8b9adf956f6249041c74a8a581c4c9c0be6d",
+              "sha256": "64b3b664d75b113a8f5752d39eaf8b9adf956f6249041c74a8a581c4c9c0be6d"
             },
             "arm64_ventura": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:1d6dcc7df5e1c017b5e9d1b3401cfe9c64dc3172c10a1d38a691220afce43b4c",
-              "sha256": "1d6dcc7df5e1c017b5e9d1b3401cfe9c64dc3172c10a1d38a691220afce43b4c"
+              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:5ae3a22365096c72cf4484891857e58a41dc2cdd2c9e398982d6e33c0ecd8803",
+              "sha256": "5ae3a22365096c72cf4484891857e58a41dc2cdd2c9e398982d6e33c0ecd8803"
             },
             "arm64_monterey": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:d5a3221dad2fa0442979db47ef96474b98aeac4d6ff11d4b7ee5f85c1c2cdcec",
-              "sha256": "d5a3221dad2fa0442979db47ef96474b98aeac4d6ff11d4b7ee5f85c1c2cdcec"
+              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:776ab2397c6469573bd44338577c09e9d826ec6a78968df354c6be8018cb9938",
+              "sha256": "776ab2397c6469573bd44338577c09e9d826ec6a78968df354c6be8018cb9938"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:6f324026500780c0b8d135021bced0bede605326f8b53fbcea157733cc0052de",
-              "sha256": "6f324026500780c0b8d135021bced0bede605326f8b53fbcea157733cc0052de"
+              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:2dba56393a540a3943d452c67fcc1f8a7de7dd6e41f7f03d494a92cf598045dd",
+              "sha256": "2dba56393a540a3943d452c67fcc1f8a7de7dd6e41f7f03d494a92cf598045dd"
             },
             "ventura": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:81a53f0e52e4b2029c2c49219353aeb6ac70cde64f6dedca0b3808e4dd7f5e71",
-              "sha256": "81a53f0e52e4b2029c2c49219353aeb6ac70cde64f6dedca0b3808e4dd7f5e71"
+              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:1575884d42358965057acd14cc02b9979ac2c42e411145fefb2db0cb19f7dbf3",
+              "sha256": "1575884d42358965057acd14cc02b9979ac2c42e411145fefb2db0cb19f7dbf3"
             },
             "monterey": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:f63e810f41b2feafe28fd8d947a2af08095ebfb958724df6e200da6e3905ebe6",
-              "sha256": "f63e810f41b2feafe28fd8d947a2af08095ebfb958724df6e200da6e3905ebe6"
+              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:864937c933a272b6938d087cdf6d358c80e2f6427371356d72ca0ebcb4c88d35",
+              "sha256": "864937c933a272b6938d087cdf6d358c80e2f6427371356d72ca0ebcb4c88d35"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:c47345eec1634b8b2b003cd300d79e93f8b389799c3cab076fe573de83a9a0ea",
-              "sha256": "c47345eec1634b8b2b003cd300d79e93f8b389799c3cab076fe573de83a9a0ea"
+              "url": "https://ghcr.io/v2/homebrew/core/netlify-cli/blobs/sha256:f97f1ee26bfbf0fb08d400d7be0e59a71be5838cdff1706e0cbcb717789c99ff",
+              "sha256": "f97f1ee26bfbf0fb08d400d7be0e59a71be5838cdff1706e0cbcb717789c99ff"
             }
           }
         }
