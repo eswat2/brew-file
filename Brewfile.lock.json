@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "77e1d0ed28707580c7d31142040aa52486ba63eb"
+        "revision": "160fe4627b8916fcb48e4c46de723f5f0c6074cc"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -767,13 +767,13 @@
       "nvm": {
         "version": "0.39.7",
         "bottle": {
-          "rebuild": 0,
+          "rebuild": 1,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "all": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/nvm/blobs/sha256:fafb27126e5f79d1b2cd4f92a47a1ef186b020be0217fd8cc79d5d12d4e64d49",
-              "sha256": "fafb27126e5f79d1b2cd4f92a47a1ef186b020be0217fd8cc79d5d12d4e64d49"
+              "url": "https://ghcr.io/v2/homebrew/core/nvm/blobs/sha256:ac42824b16b90c713ea4ecb1df6c6d6da242ea1e691f0e37b38e4b77d5cb3dae",
+              "sha256": "ac42824b16b90c713ea4ecb1df6c6d6da242ea1e691f0e37b38e4b77d5cb3dae"
             }
           }
         }
