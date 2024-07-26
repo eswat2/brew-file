@@ -2194,6 +2194,12 @@
         "options": {
           "full_name": "1password-cli"
         }
+      },
+      "font-jetbrains-mono": {
+        "version": "2.304",
+        "options": {
+          "full_name": "font-jetbrains-mono"
+        }
       }
     }
   },
