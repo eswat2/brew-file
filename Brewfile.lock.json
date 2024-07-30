@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "f559d3eb556dceaf4611bc0b1cc2f233ce3b24ea"
+        "revision": "260b3b482f39f92ccb4de1acecbb5bf081108d7c"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -26,7 +26,7 @@
         "revision": "e3f9e58af87c74ef79e1e31644078fc0634321bb"
       },
       "modularml/packages": {
-        "revision": "d57239f1401fc77ebbdb791035f60571c56a0a66"
+        "revision": "e3e137f588f29fcdd3b93d352e3fd77ff86e53af"
       },
       "charmbracelet/tap": {
         "revision": "1be8527a7deb30f88a21b71f98559ea747c75e5c"
@@ -1383,7 +1383,7 @@
         }
       },
       "modular": {
-        "version": "0.8.0",
+        "version": "0.9.1",
         "bottle": false
       },
       "git-lfs": {
@@ -2227,7 +2227,7 @@
         "Homebrew/homebrew-core": "api",
         "CLT": "15.3.0.0.1.1708646388",
         "Xcode": "15.4",
-        "macOS": "14.5"
+        "macOS": "14.6"
       }
     }
   }
