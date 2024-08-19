@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "9a1abe669938e9cf10cc6053a7c30b4549d4e096"
+        "revision": "131aae79f7fbba63bf2a29eac4cdaafbf819e005"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -29,7 +29,7 @@
         "revision": "45246032bc5c97e4bd9e3b9c8a1d5589d28d7112"
       },
       "charmbracelet/tap": {
-        "revision": "7f6bcf2aa8b28f5912f0699ffb631d6f1f26fcba"
+        "revision": "9325f0e5db2fa70525c214bab339938529f73bda"
       },
       "tidwall/jj": {
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
