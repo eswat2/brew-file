@@ -1,4 +1,4 @@
-tap "encore/tap"
+tap "encoredev/tap"
 tap "github/gh"
 tap "homebrew/bundle"
 tap "modularml/packages"

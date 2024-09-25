@@ -33,6 +33,9 @@
       },
       "tidwall/jj": {
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
+      },
+      "encoredev/tap": {
+        "revision": "9f6d2c6434a63cb6c6aeb9566fc6f2e9815cddf5"
       }
     },
     "brew": {
@@ -2093,6 +2096,10 @@
             }
           }
         }
+      },
+      "encore": {
+        "version": "1.41.4",
+        "bottle": false
       }
     },
     "cask": {
