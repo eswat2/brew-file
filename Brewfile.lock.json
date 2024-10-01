@@ -2176,7 +2176,7 @@
         }
       },
       "wave": {
-        "version": "0.8.6",
+        "version": "0.8.7",
         "options": {
           "full_name": "wave"
         }
@@ -2330,7 +2330,7 @@
         "macOS": "14.6.1"
       },
       "sequoia": {
-        "HOMEBREW_VERSION": "4.3.24",
+        "HOMEBREW_VERSION": "4.4.0",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "16.0.0.0.1.1724870825",
