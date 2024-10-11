@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "768486e33e4373c9c48455f8ba20c52415c4e493"
+        "revision": "836b67f84a21deec9016253f41f994c2a98cea15"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -2185,7 +2185,7 @@
         }
       },
       "wave": {
-        "version": "0.8.10",
+        "version": "0.8.11",
         "options": {
           "full_name": "wave"
         }
