@@ -35,7 +35,7 @@
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
       },
       "encoredev/tap": {
-        "revision": "451d1667ab2e84d92c4a1aec352196e23296ee4c"
+        "revision": "34359356d63d806bb21160466176c736d86f29f9"
       }
     },
     "brew": {
@@ -2043,7 +2043,7 @@
         }
       },
       "encore": {
-        "version": "1.41.10",
+        "version": "1.41.11",
         "bottle": false
       },
       "jd": {
