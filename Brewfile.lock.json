@@ -35,7 +35,7 @@
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
       },
       "encoredev/tap": {
-        "revision": "f1162d9e187a552eb261a862eec0c0a9fb013158"
+        "revision": "3d77a6b66fdabee1a2897b73b7077f91e9ade117"
       }
     },
     "brew": {
@@ -209,6 +209,11 @@
               "cellar": "/opt/homebrew/Cellar",
               "url": "https://ghcr.io/v2/homebrew/core/gcc/blobs/sha256:2869b13880fbe3d3d9d074e3b5f2dbf3bd0593f826d11b8b10165fd489b94deb",
               "sha256": "2869b13880fbe3d3d9d074e3b5f2dbf3bd0593f826d11b8b10165fd489b94deb"
+            },
+            "sequoia": {
+              "cellar": "/usr/local/Cellar",
+              "url": "https://ghcr.io/v2/homebrew/core/gcc/blobs/sha256:548e5453b0cbf88fe86d63aeef2dacfa7eacc030ccdf037113add3040d64db50",
+              "sha256": "548e5453b0cbf88fe86d63aeef2dacfa7eacc030ccdf037113add3040d64db50"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
@@ -2023,7 +2028,7 @@
         }
       },
       "encore": {
-        "version": "1.42.4",
+        "version": "1.43.0",
         "bottle": false
       },
       "jd": {
@@ -2165,7 +2170,7 @@
         }
       },
       "wave": {
-        "version": "0.8.12",
+        "version": "0.8.13",
         "options": {
           "full_name": "wave"
         }
