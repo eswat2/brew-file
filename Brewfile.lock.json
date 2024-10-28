@@ -35,7 +35,7 @@
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
       },
       "encoredev/tap": {
-        "revision": "3dd367f998b3118d75b48e2b8948aea080d5b92e"
+        "revision": "2c4b1a51e27dae5c97c36ed63c7a87a9ae1c8a6e"
       }
     },
     "brew": {
@@ -2028,7 +2028,7 @@
         }
       },
       "encore": {
-        "version": "1.43.4",
+        "version": "1.43.5",
         "bottle": false
       },
       "jd": {
@@ -2324,12 +2324,12 @@
         "macOS": "14.6.1"
       },
       "sequoia": {
-        "HOMEBREW_VERSION": "4.4.2",
+        "HOMEBREW_VERSION": "4.4.3",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "16.0.0.0.1.1724870825",
         "Xcode": "16.0",
-        "macOS": "15.0.1"
+        "macOS": "15.1"
       }
     }
   }
