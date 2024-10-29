@@ -35,7 +35,7 @@
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
       },
       "encoredev/tap": {
-        "revision": "2c4b1a51e27dae5c97c36ed63c7a87a9ae1c8a6e"
+        "revision": "32932ef7ce19165a23a7e913427cd485938d83f4"
       }
     },
     "brew": {
@@ -2028,7 +2028,7 @@
         }
       },
       "encore": {
-        "version": "1.43.5",
+        "version": "1.43.7",
         "bottle": false
       },
       "jd": {
@@ -2170,7 +2170,7 @@
         }
       },
       "wave": {
-        "version": "0.8.13",
+        "version": "0.9.0",
         "options": {
           "full_name": "wave"
         }
@@ -2328,7 +2328,7 @@
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "16.1.0.0.1.1729049160",
-        "Xcode": "16.0",
+        "Xcode": "16.1",
         "macOS": "15.1"
       }
     }
