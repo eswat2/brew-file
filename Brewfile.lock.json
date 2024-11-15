@@ -8,7 +8,7 @@
         "revision": "6d120d9c0c4caf85713754a9607c4d5b05bd1f20"
       },
       "homebrew/bundle": {
-        "revision": "055eb6e7c6fc2e2d5fce43c6531a23ded4cb5d7a"
+        "revision": "144757ebeaf4352b8bb16369f5300a031030d60b"
       },
       "homebrew/cask": {
         "revision": "2ae6e86efe2e50d9a6a632f36f4e663ce60ed6ba"
@@ -17,7 +17,7 @@
         "revision": "acdf65b482703b242af2fc2272419bc7b57f33ed"
       },
       "mongodb/brew": {
-        "revision": "b554a779a8768bf258f58a52b1a4366c81e1cccb"
+        "revision": "7f9ec2e73f476385467216485bd51342cf50ee92"
       },
       "homebrew/cask-fonts": {
         "revision": "0ed20f35d21ebc3f4f829689b101078718ad5ce1"
@@ -35,7 +35,7 @@
         "revision": "a85d3c21db92b7136fdd9ded405c7c16ea55936f"
       },
       "encoredev/tap": {
-        "revision": "bcd7c7613c9a0bc951dbe5794dbacfc47bb9c773"
+        "revision": "cf823d92e14c9f053a84ac9e229cbac1c5853083"
       }
     },
     "brew": {
@@ -1998,7 +1998,7 @@
         }
       },
       "encore": {
-        "version": "1.43.11",
+        "version": "1.43.12",
         "bottle": false
       },
       "jd": {
