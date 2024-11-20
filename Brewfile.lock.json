@@ -2299,7 +2299,7 @@
         "Homebrew/homebrew-core": "api",
         "CLT": "16.1.0.0.1.1729049160",
         "Xcode": "16.1",
-        "macOS": "15.1"
+        "macOS": "15.1.1"
       }
     }
   }
