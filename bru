@@ -24,6 +24,7 @@ then
     echo "-- doctor"
     brew doctor
     echo "-- verify"
+    printf "%.3f\n" "$EPOCHREALTIME" > .stamp
     LOG=`nit`
     case $LOG in
       *"git push"*)
