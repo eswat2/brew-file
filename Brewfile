@@ -48,6 +48,7 @@ brew "wget"
 brew "yarn"
 
 cask "1password-cli"
+cask "docker"
 cask "font-abel"
 cask "font-aporetic"
 cask "font-atkinson-hyperlegible"
