@@ -1,6 +1,5 @@
 tap "encoredev/tap"
 tap "github/gh"
-tap "homebrew/bundle"
 tap "mongodb/brew"
 
 brew "ack"
