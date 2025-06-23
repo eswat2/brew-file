@@ -59,7 +59,6 @@ brew "tokei"
 
 cask "1password-cli"
 cask "antinote"
-cask "docker"
 cask "font-abel"
 cask "font-aporetic"
 cask "font-atkinson-hyperlegible"
