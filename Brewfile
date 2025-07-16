@@ -41,8 +41,6 @@ brew "python@3.11"
 brew "pyenv"
 brew "imagemagick"
 brew "node"
-brew "n"
-brew "nvm"
 brew "php"
 brew "wget"
 
