@@ -45,7 +45,6 @@ brew "n"
 brew "nvm"
 brew "php"
 brew "wget"
-brew "yarn"
 
 brew "bandwhich"
 brew "bat"
