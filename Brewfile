@@ -55,6 +55,11 @@ brew "procs"
 brew "ripgrep"
 brew "tokei"
 
+brew "mprocs"
+brew "nfty"
+brew "ots"
+brew "qrcp"
+
 cask "1password-cli"
 cask "antinote"
 cask "claudia"
