@@ -56,7 +56,7 @@ brew "ripgrep"
 brew "tokei"
 
 brew "mprocs"
-brew "nfty"
+brew "ntfy"
 brew "ots"
 brew "qrcp"
 
