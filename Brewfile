@@ -1,6 +1,7 @@
 tap "encoredev/tap"
 tap "github/gh"
 tap "mongodb/brew"
+tap "jfernandez/mdserve"
 
 brew "ack"
 brew "automake"
@@ -44,6 +45,7 @@ brew "imagemagick"
 brew "node"
 brew "php"
 brew "wget"
+brew "mdserve"
 
 brew "bandwhich"
 brew "bat"
