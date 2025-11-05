@@ -1,6 +1,7 @@
 tap "encoredev/tap"
 tap "github/gh"
 tap "mongodb/brew"
+tap "ksdme/tap"
 
 brew "ack"
 brew "automake"
@@ -57,6 +58,7 @@ brew "fd"
 brew "procs"
 brew "ripgrep"
 brew "tokei"
+brew "ut"
 
 brew "mprocs"
 brew "ntfy"
