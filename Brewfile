@@ -114,6 +114,7 @@ cask "webpquicklook"
 
 brew "charmbracelet/tap/charm"
 brew "charmbracelet/tap/crush"
+brew "charmbracelet/tap/fang"
 brew "charmbracelet/tap/glow"
 brew "charmbracelet/tap/gum"
 brew "charmbracelet/tap/mods"
