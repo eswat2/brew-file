@@ -47,6 +47,7 @@ brew "node"
 brew "php"
 brew "wget"
 brew "mdserve"
+brew "f/mcptools/mcp"
 
 brew "bandwhich"
 brew "bat"
