@@ -46,7 +46,10 @@ brew "imagemagick"
 brew "node"
 brew "php"
 brew "wget"
+
 brew "mdserve"
+brew "neovim"
+brew "vim"
 
 brew "bandwhich"
 brew "bat"
