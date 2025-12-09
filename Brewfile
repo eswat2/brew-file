@@ -48,6 +48,7 @@ brew "php"
 brew "wget"
 
 brew "mdserve"
+brew "micro"
 brew "neovim"
 brew "vim"
 
