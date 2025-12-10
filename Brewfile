@@ -49,7 +49,9 @@ brew "wget"
 
 brew "mdserve"
 brew "micro"
+brew "mosh"
 brew "neovim"
+brew "tmux"
 brew "vim"
 
 brew "bandwhich"
