@@ -53,6 +53,7 @@ brew "mdserve"
 brew "micro"
 brew "mosh"
 brew "neovim"
+brew "shfmt"
 brew "tmux"
 brew "vim"
 
