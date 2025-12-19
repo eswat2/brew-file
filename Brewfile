@@ -60,6 +60,7 @@ brew "neovim"
 brew "ox"
 brew "shfmt"
 brew "tmux"
+brew "tree"
 brew "vim"
 
 brew "bandwhich"
