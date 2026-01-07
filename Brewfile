@@ -153,4 +153,6 @@ brew "charmbracelet/tap/soft-serve"
 brew "charmbracelet/tap/vhs"
 brew "ksdme/tap/ut"
 brew "tidwall/jj/jj"
+brew "steveyegge/beads/bd"
 brew "f/mcptools/mcp"
+
