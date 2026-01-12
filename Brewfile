@@ -43,7 +43,7 @@ brew "openssl@3"
 brew "ruby"
 
 # task tools for agents
-brew "bd"
+# brew "bd"
 brew "ticket"
 
 brew "gh"
