@@ -6,12 +6,12 @@ tap "productdevbook/tap"
 # tap "sinelaw/fresh"
 tap "steipete/tap"
 tap "steveyegge/beads"
+tap "wedow/tools"
 
 
 brew "ack"
 brew "automake"
 brew "bash"
-brew "bd"
 brew "brew-gem"
 # brew "cargo-binstall"
 # brew "cargo-outdated"
@@ -42,6 +42,11 @@ brew "mise"
 # brew "netlify-cli"
 brew "openssl@3"
 brew "ruby"
+
+# task tools for agents
+brew "bd"
+brew "ticket"
+
 brew "gh"
 brew "hub"
 brew "make"
