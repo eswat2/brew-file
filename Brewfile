@@ -44,7 +44,7 @@ brew "ruby"
 
 # task tools for agents
 # brew "bd"
-brew "ticket"
+# brew "ticket"
 
 brew "gh"
 brew "hub"
