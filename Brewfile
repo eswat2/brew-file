@@ -3,7 +3,7 @@ tap "github/gh"
 tap "mongodb/brew"
 tap "misterTea/et"
 tap "productdevbook/tap"
-tap "sinelaw/fresh"
+# tap "sinelaw/fresh"
 tap "steipete/tap"
 tap "steveyegge/beads"
 
