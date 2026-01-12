@@ -6,7 +6,7 @@ tap "productdevbook/tap"
 # tap "sinelaw/fresh"
 tap "steipete/tap"
 tap "steveyegge/beads"
-tap "wedow/tools"
+# tap "wedow/tools"
 
 brew "ack"
 brew "automake"
@@ -44,7 +44,7 @@ brew "ruby"
 
 # task tools for agents
 brew "bd"
-brew "ticket"
+brew "wedow/tools/ticket"
 
 brew "gh"
 brew "hub"
