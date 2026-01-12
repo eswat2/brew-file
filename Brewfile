@@ -8,7 +8,6 @@ tap "steipete/tap"
 tap "steveyegge/beads"
 tap "wedow/tools"
 
-
 brew "ack"
 brew "automake"
 brew "bash"
