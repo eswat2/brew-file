@@ -59,6 +59,7 @@ brew "php"
 brew "wget"
 
 brew "amp"
+brew "cmake"
 brew "et"
 brew "fresh-editor"
 brew "helix"
