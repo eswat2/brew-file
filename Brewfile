@@ -146,7 +146,7 @@ cask "macdown"
 cask "podman-desktop"
 cask "portkiller"
 cask "qlimagesize"
-cask "repobar"
+# cask "repobar"
 cask "wave"
 cask "webpquicklook"
 
