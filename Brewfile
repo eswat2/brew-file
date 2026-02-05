@@ -139,15 +139,18 @@ cask "font-source-sans-3"
 cask "font-space-mono"
 cask "font-victor-mono"
 
+cask "codexbar"
+cask "portkiller"
+cask "repobar"
+
 cask "ghostty"
 cask "graphql-playground"
 cask "llamachat"
 cask "macdown"
 cask "podman-desktop"
-cask "portkiller"
-cask "qlimagesize"
-cask "repobar"
 cask "wave"
+
+cask "qlimagesize"
 cask "webpquicklook"
 
 brew "charmbracelet/tap/charm"
