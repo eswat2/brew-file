@@ -9,6 +9,7 @@ tap "steveyegge/beads"
 tap "wedow/tools"
 
 brew "ack"
+brew "age"
 brew "automake"
 brew "bash"
 brew "brew-gem"
