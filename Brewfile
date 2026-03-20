@@ -150,6 +150,7 @@ cask "portkiller"
 cask "repobar"
 
 cask "ghostty"
+cask "hf"
 cask "graphql-playground"
 cask "llamachat"
 cask "macdown"
