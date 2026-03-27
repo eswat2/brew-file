@@ -58,6 +58,7 @@ brew "make"
 # brew "uv"
 brew "imagemagick"
 brew "node"
+brew "pandoc"
 brew "php"
 brew "wget"
 
