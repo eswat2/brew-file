@@ -98,6 +98,7 @@ brew "qrcp"
 
 cask "1password-cli"
 cask "antinote"
+cask "ngrok"
 cask "opcode"
 
 cask "font-abel"
