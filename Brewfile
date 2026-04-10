@@ -172,6 +172,8 @@ brew "charmbracelet/tap/sequin"
 brew "charmbracelet/tap/skate"
 brew "charmbracelet/tap/soft-serve"
 brew "charmbracelet/tap/vhs"
+
+brew "bjarneo/cliamp/cliamp"
 brew "ksdme/tap/ut"
 brew "tidwall/jj/jj"
 brew "f/mcptools/mcp"
