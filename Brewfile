@@ -42,6 +42,7 @@ brew "luajit"
 brew "mise"
 # brew "netlify-cli"
 brew "openssl@3"
+brew "pngquant"
 brew "ruby"
 
 # task tools for agents
