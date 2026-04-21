@@ -42,6 +42,7 @@ brew "mise"
 brew "openssl@3"
 brew "pngquant"
 brew "ruby"
+brew "yq"
 
 # task tools for agents
 # brew "bd"
